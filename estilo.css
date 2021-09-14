@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.div-menu {
+    height: 66px;
+    position: relative;
+    padding-top: 20px;
+}
+
+.h-485 {
+    height: 485px;
+}
+
+.botao {
+    height: 45px;
+    font-size: 17px;
+}
+
+.posicao-botao {
+    position: absolute;
+    top: 11px;
+    right: 130px;
+}
+
+.texto-menu {
+    font-size: 18px;
+    margin-left: 100px;
+    color: black !important;
+}
+
+.div-1 {
+    background-image: url(https://raw.githubusercontent.com/ahsanazim/slack-landing-page/master/screen_caps/menu_background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.texto-div-1 {
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.h-350 {
+    height: 350px;
+}
+
+.h-530 {
+    height: 530px;
+}
+
+.h-600 {
+    height: 600px;
+}
+
+.pt-9 {
+    padding-top: 9px;
+}
+
+.pt-120 {
+    padding-top: 120px;
+}
+
+.p-120 {
+    padding: 120px;
+}
+
+.pt-150 { 
+    padding-top: 150px;
+}
+
+.pt-170 { 
+    padding-top: 170px;
+}
+
+.icones-1 {
+    color: #2C4039;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.imagem-1 {
+    background-image: url(https://sitebemfeito.com.br/blog/wp-content/uploads/2020/11/site-responsivo-min.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagem-1 {
+    background-image: url(https://neilpatel.com/wp-content/uploads/2020/01/layout-responsivo-para-web.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagem-2 {
+    background-image: url(https://merten.com.br/wp-content/uploads/2017/11/digital-transformation.jpg);
+    background-position: center;
+    background-size: cover;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.imagem-3 {
+    background-image: url(https://s.yimg.com/ny/api/res/1.2/FKqYe5Y.wzshTKrjjBGYhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-10/65a650b0-193d-11eb-bfe3-2e19abde3fa5);
+    background-position: center;
+    background-size: cover;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.fonte-15 {
+    font-size: 15px;
+}
+
+.fonte-15 a {
+    color: text-primary;
+    text-decoration: underline;
+}
+
+.pa-1 {
+    position: absolute;
+    top: 55px;
+    right: 160px;
+}
+
+.icones-2{
+    color: #2C4039;
+    font-size: 30px;
+    margin-left: 15px;
+}
